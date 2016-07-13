@@ -11,7 +11,7 @@ var config = {
 		},
 		{
 			module: 'clock',
-			position: 'top_right'
+			position: 'top_right',
 			config: {
 				showPeriodUpper: true
 			}
