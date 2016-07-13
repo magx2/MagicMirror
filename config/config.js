@@ -66,6 +66,18 @@ var config = {
 					{
 						title: "Antyweb",
 						url: "http://feeds.feedburner.com/Antyweb?format=xml"
+					},
+					{
+						title: "TVN",
+						url: "http://www.tvn24.pl/najwazniejsze.xml"
+					},
+					{
+						title: "TVN Polska",
+						url: "http://www.tvn24.pl/wiadomosci-z-kraju,3.xml"
+					},
+					{
+						title: "TVN Wrocław",
+						url: "http://www.tvn24.pl/wroclaw,44.xml"
 					}
 				],
 				showSourceTitle: true,
