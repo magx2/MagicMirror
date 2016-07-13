@@ -7,7 +7,7 @@ var config = {
 
 	modules: [
 		{
-			module: 'alert',
+			module: 'alert'
 		},
 		{
 			module: 'clock',
@@ -35,7 +35,7 @@ var config = {
 					},
 					{
 						symbol: 'cogs ',
-						url: 'https://calendar.google.com/calendar/ical/uu3stjobudouuictf8pjflkqfs%40group.calendar.google.com/private-9ffcd6643240256a444d7c698c44e249/basic.ics'
+						url: 'https://calendar.google.com/calendar/ical/uu3stjobudouuictf8pjflkqfs%40group.calendar.google.com/private-9ffcd6643240256a444d7c698c44e249/basic.ics',
 						repeatingCountTitle: 'Praca'
 					}
 				]
