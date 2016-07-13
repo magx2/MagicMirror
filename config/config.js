@@ -53,7 +53,7 @@ var config = {
 			module: 'airquality',
     			position: 'top_left', // you may choose any location
     			config: {
-      				location: 'Wrocław, Poland' // the location to check the index for
+      				location: 'wroclaw' // the location to check the index for
     			}
 		},
 		{
